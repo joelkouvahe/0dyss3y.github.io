@@ -1,5 +1,9 @@
 
-# KOUVAHE Ekoué Joel 👋
+# KOUVAHE Ekoué Joel 
+
+> Cybersecurity leader, community builder, and developer based in Togo.
+
+I don't wait for opportunities — I build the infrastructure that creates them for others.
 
 ## Cybersecurity Enthusiast | Network & Security Administrator | Aspiring Red Teamer
 
