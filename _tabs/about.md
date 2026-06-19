@@ -61,13 +61,6 @@ Currently pursuing a Master's degree in Cybersecurity, I continuously strengthen
 * TryHackMe Labs & Writeups
 * Cybersecurity Research Projects
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=joelkouvahe\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joelkouvahe\&layout=compact)
 
 ---
 
