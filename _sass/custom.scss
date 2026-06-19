@@ -1,1 +1,4 @@
-
+/* Rounded borders on all post images */
+img:not(.avatar-img):not(.site-logo) {
+  border-radius: 12px;
+}
