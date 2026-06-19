@@ -1,1 +1,28 @@
+title: Joël Kouvahe
 
+tagline: Cybersecurity Leader · Pentester · CTF Player · Community Builder
+
+description: >-
+  Portfolio de Joël Kouvahe (0dyss3y),
+  passionné de cybersécurité,
+  administrateur réseau et sécurité, pentester, joueur de CTF .
+  Membre de la communauté IPNET CYBERSEC CLUB, et Président du club CYBERSEC UCAO UUT.
+
+url: "https://joelkouvahe.github.io"
+
+github:
+  username: joelkouvahe
+
+social:
+  name: Joël Kouvahe
+  links:
+    - https://github.com/joelkouvahe
+    - https://www.linkedin.com/in/joël-ekoue-kouvahe-562a71261
+
+lang: fr
+
+timezone: Africa/Lome
+
+theme_mode: dark
+
+avatar: /assets/images/avatar.jpg
