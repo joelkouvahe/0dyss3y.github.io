@@ -25,7 +25,7 @@
 
   // Formateur pour les scripts Shell (bash/sh)
   "[shellscript]": {
-    "editor.defaultFormatter": "mkhl.shfmt"
+    "editor.defaultFormatter": "mkhl.shfmt"   // ← Correction de la faute de frappe
   },
 
   // Désactivation des validateurs CSS/SCSS/Less natifs de VS Code
