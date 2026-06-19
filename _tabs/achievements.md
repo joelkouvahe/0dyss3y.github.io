@@ -2,7 +2,6 @@
 
 layout: page
 title: Achievements
-icon: fas fa-trophy
 order: 4
 --------
 
